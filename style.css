@@ -1,0 +1,91 @@
+  html { 
+  background: url("https://cdn.pixabay.com/photo/2016/03/28/12/35/cat-1285634_960_720.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+  body {
+      
+  height: 100%;
+      
+  text-align: center;
+      
+  margin: 20px 20px 50px 20px;
+      
+  padding: 0;
+      
+  font-family: 'Verdana', Sans-Serif;
+      
+  color: #ffffff;
+      text-shadow: 1px 1px #666666;
+
+}
+
+  
+
+  .nav {
+      
+  background: rgba(178, 179, 183, .5);
+      
+  color: #ffffff;
+      
+  list-style: none;
+      
+  text-align: center;
+      
+  padding: 20px 0 20px 0;   
+
+}
+
+  
+
+  .nav > li {
+
+  display: inline-block;
+      
+  padding: 0 25px 0 25px;    
+
+}
+
+  
+
+  .nav > li > a {
+      
+  text-decoration: none;
+      
+  color: #ffffff;
+      
+
+}
+
+  
+
+  .nav > li > a:hover {
+      
+  color: #cacbce;
+
+}
+
+   
+
+#content {
+       
+background: rgba(164, 166, 168, .5);
+       
+text-align: left;
+}
+
+
+#content2 {
+ background: rgba(164, 166, 168, .5);
+       
+text-align: left;
+}
+
+
+#content3 {
+text-decoration: none;
+}
+ 
